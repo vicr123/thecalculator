@@ -75,7 +75,7 @@
     <message>
       <location filename="../customs/branchbox.cpp" line="49" />
       <source>OTHERWISE RETURN</source>
-      <translation>KHÔNG ĐIỀU KIỆN PHÙ HỢP THÌ TRẢ LỜI</translation>
+      <translation>KHÔNG ĐIỀU KIỆN PHÙ HỢP THÌ TRẢ LỜI</translation>
     </message>
     <message>
       <location filename="../customs/branchbox.cpp" line="77" />
