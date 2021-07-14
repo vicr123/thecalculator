@@ -60,7 +60,7 @@
     <message>
       <location filename="../customs/branchbox.ui" line="73" />
       <source>Error</source>
-      <translation>Lỗi</translation>
+      <translation>Lỗi</translation>
     </message>
     <message>
       <location filename="../customs/branchbox.ui" line="85" />
@@ -85,7 +85,7 @@
     <message>
       <location filename="../customs/branchbox.cpp" line="78" />
       <source>A return value is required for this branch</source>
-      <translation>Một câu trả lời là bắt buộc cho nhánh này</translation>
+      <translation>Một câu trả lời là bắt buộc cho nhánh này</translation>
     </message>
     <message>
       <location filename="../customs/branchbox.cpp" line="118" />
